@@ -7,7 +7,7 @@ about:
   head: e9dadb4
   archived: false
   latestVersion: 2.4.1
-  collectedAt: 2026-09-04T19:19:28Z
+  collectedAt: 2026-09-04T21:14:44Z
 timeline:
   created: 2020-07-11
   lastCommit: 2026-06-10
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 20365
   watcher: 163
-  fork: 1381
+  fork: 1380
   release: 22
   contributor: 81
   pullRequest: 614
@@ -86,6 +86,54 @@ total:
   openIssue: 34
   commit: 1007
 ---
+path: /home/runner/.x-repo/github.com/RustScan/RustScan
+collectedAt: 2026-09-04T21:14:44Z
+loc:
+  Rust:
+    code: 2558
+    comments: 108
+    blanks: 380
+    files: 14
+  Toml:
+    code: 1064
+    comments: 10
+    blanks: 11
+    files: 3
+  Yaml:
+    code: 346
+    comments: 180
+    blanks: 72
+    files: 4
+  Makefile:
+    code: 16
+    comments: 0
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 4
+    blanks: 0
+    files: 1
+  Sh:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 259
+    blanks: 114
+    files: 3
+  Text:
+    code: 0
+    comments: 40
+    blanks: 8
+    files: 3
+total:
+  code: 4040
+  comments: 893
+  blanks: 661
+  files: 30
 ---
 date: "2026-08-24"
 repo:
