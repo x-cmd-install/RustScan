@@ -4,7 +4,7 @@
 
 🤖 The Modern Port Scanner 🤖
 
-![RustScan](https://repo.x-cmd.io/RustScan.svg)
+![RustScan](https://repo.x-cmd.io/RustScan.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,24 @@ x install RustScan
 - **最新版本**: `2.4.1` (2025-02-23)
 - **最近提交**: 2026-06-10
 - **Release 含资产**: 9 个
-- **发布时间**: 2025-02-23T15:03:50Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aarch64-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip) | 2.0 MiB | `native/linux/arm64` |
+| [aarch64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip) | 1.8 MiB | `native/darwin/arm64` |
+| [rustscan.deb.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/rustscan.deb.zip) | 3.8 MiB | `other` |
+| [x86-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip) | 1.9 MiB | `other` |
+| [x86-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip) | 1.7 MiB | `native/win/x64` |
+| [x86_64-linux-rustscan.tar.gz.1.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.1.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-linux-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip) | 1.9 MiB | `native/darwin/x64` |
+| [x86_64-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip) | 2.0 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 20,388 · **Fork**: 1,380 · **开放 issue**: 288 · **贡献者**: 81
+- **Star**: 20,393 · **Fork**: 1,380 · **开放 issue**: 288 · **贡献者**: 81
 
 ## 累计统计
 
@@ -71,4 +84,4 @@ RustScan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:33:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:43Z._

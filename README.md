@@ -22,11 +22,24 @@ x install RustScan
 - **Latest**: `2.4.1` (2025-02-23)
 - **Last commit**: 2026-06-10
 - **Assets in release**: 9
-- **Published**: 2025-02-23T15:03:50Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [aarch64-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip) | 2.0 MiB | `native/linux/arm64` |
+| [aarch64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip) | 1.8 MiB | `native/darwin/arm64` |
+| [rustscan.deb.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/rustscan.deb.zip) | 3.8 MiB | `other` |
+| [x86-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip) | 1.9 MiB | `other` |
+| [x86-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip) | 1.7 MiB | `native/win/x64` |
+| [x86_64-linux-rustscan.tar.gz.1.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.1.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-linux-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip) | 1.9 MiB | `native/darwin/x64` |
+| [x86_64-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip) | 2.0 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 20,388 · **Forks**: 1,380 · **Open issues**: 288 · **Contributors**: 81
+- **Stars**: 20,393 · **Forks**: 1,380 · **Open issues**: 288 · **Contributors**: 81
 
 ## Totals (cumulative)
 
@@ -67,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `RustScan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/RustScan.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/RustScan.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:33:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:43Z._
