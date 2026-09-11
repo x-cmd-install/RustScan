@@ -7,7 +7,7 @@ about:
   latestVersion: "2.4.1"
   latestRelease: "2.4.1"
   latestPrerelease: "untagged-544fc861a2260fa82810"
-  collectedAt: 2026-09-11T00:15:11Z
+  collectedAt: 2026-09-11T04:48:13Z
 timeline:
   created: 2020-07-11
   lastCommit: 2026-06-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-02-23
   lastPrerelease: 2024-05-18
 popularity:
-  star: 20394
+  star: 20395
   watcher: 164
   fork: 1380
   release: 22
@@ -89,7 +89,7 @@ total:
   commit: 1007
 ---
 path: /home/runner/.x-repo/github.com/RustScan/RustScan
-collectedAt: 2026-09-11T00:15:16Z
+collectedAt: 2026-09-11T04:48:17Z
 loc:
   Rust:
     code: 2558
