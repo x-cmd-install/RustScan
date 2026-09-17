@@ -14,11 +14,11 @@ x install RustScan
 
 ## Code insight
 
-Total: **3,988** lines of code across **23** files in the top 5 languages.
+Total: **3,985** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,558 | 108 | 380 | 14 |
+| Rust | 2,555 | 108 | 380 | 14 |
 | Toml | 1,064 | 10 | 11 | 3 |
 | Yaml | 346 | 180 | 72 | 4 |
 | Makefile | 16 | 0 | 5 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.4.1` (2025-02-23)
-- **Last commit**: 2026-06-10
+- **Last commit**: 2026-09-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 20,415 · **Forks**: 1,382 · **Open issues**: 288 · **Contributors**: 81
+- **Stars**: 20,422 · **Forks**: 1,382 · **Open issues**: 288 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 391 · **Open PRs**: 28 · **Closed issues**: 254 · **Open issues**: 34 · **Commits**: 1007
+- **Releases**: 22 · **Merged PRs**: 404 · **Open PRs**: 18 · **Closed issues**: 254 · **Open issues**: 34 · **Commits**: 1032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:55:05Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:47:20Z._
