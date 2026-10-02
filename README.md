@@ -14,15 +14,15 @@ x install RustScan
 
 ## Code insight
 
-Total: **3,985** lines of code across **23** files in the top 5 languages.
+Total: **4,276** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,555 | 108 | 380 | 14 |
-| Toml | 1,064 | 10 | 11 | 3 |
+| Rust | 2,848 | 144 | 454 | 14 |
+| Toml | 1,063 | 10 | 11 | 3 |
 | Yaml | 346 | 180 | 72 | 4 |
 | Makefile | 16 | 0 | 5 | 1 |
-| Dockerfile | 3 | 4 | 0 | 1 |
+| Dockerfile | 2 | 3 | 0 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.4.1` (2025-02-23)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-10-01
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 20,480 · **Forks**: 1,386 · **Open issues**: 292 · **Contributors**: 82
+- **Stars**: 20,485 · **Forks**: 1,386 · **Open issues**: 294 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 405 · **Open PRs**: 21 · **Closed issues**: 254 · **Open issues**: 38 · **Commits**: 1037
+- **Releases**: 22 · **Merged PRs**: 425 · **Open PRs**: 6 · **Closed issues**: 263 · **Open issues**: 31 · **Commits**: 1057
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:49:22Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:35:40Z._
