@@ -14,25 +14,25 @@ x install RustScan
 
 ## 代码洞察
 
-合计: **9,631** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
+合计: **9,771** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 4,991 | 0 | 0 | 2 |
-| Rust | 3,212 | 184 | 496 | 14 |
-| Toml | 1,063 | 13 | 11 | 3 |
+| Rust | 3,348 | 185 | 519 | 15 |
+| Toml | 1,067 | 13 | 13 | 3 |
 | Yaml | 346 | 180 | 72 | 4 |
 | Makefile | 16 | 0 | 5 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **5.9 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install RustScan
 ## 发布
 
 - **最新版本**: `2.4.1` (2025-02-23)
-- **最近提交**: 2026-10-03
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 20,502 · **Fork**: 1,387 · **开放 issue**: 294 · **贡献者**: 97
+- **Star**: 20,507 · **Fork**: 1,387 · **开放 issue**: 294 · **贡献者**: 97
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 429 · **开放 PR**: 3 · **已关闭 issue**: 281 · **开放 issue**: 13 · **提交数**: 1061
+- **发布数**: 22 · **已合并 PR**: 431 · **开放 PR**: 1 · **已关闭 issue**: 281 · **开放 issue**: 13 · **提交数**: 1063
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ RustScan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T05:31:57Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:13:41Z._

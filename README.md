@@ -14,25 +14,25 @@ x install RustScan
 
 ## Code insight
 
-Total: **9,631** lines of code across **24** files in the top 5 languages.
+Total: **9,771** lines of code across **25** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 4,991 | 0 | 0 | 2 |
-| Rust | 3,212 | 184 | 496 | 14 |
-| Toml | 1,063 | 13 | 11 | 3 |
+| Rust | 3,348 | 185 | 519 | 15 |
+| Toml | 1,067 | 13 | 13 | 3 |
 | Yaml | 346 | 180 | 72 | 4 |
 | Makefile | 16 | 0 | 5 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.4.1` (2025-02-23)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 20,502 · **Forks**: 1,387 · **Open issues**: 294 · **Contributors**: 97
+- **Stars**: 20,507 · **Forks**: 1,387 · **Open issues**: 294 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 429 · **Open PRs**: 3 · **Closed issues**: 281 · **Open issues**: 13 · **Commits**: 1061
+- **Releases**: 22 · **Merged PRs**: 431 · **Open PRs**: 1 · **Closed issues**: 281 · **Open issues**: 13 · **Commits**: 1063
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:31:56Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:13:40Z._
