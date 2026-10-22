@@ -24,19 +24,9 @@ Total: **9,771** lines of code across **25** files in the top 5 languages.
 | Yaml | 346 | 180 | 72 | 4 |
 | Makefile | 16 | 0 | 5 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.9 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Source
 
-- **Upstream**: <https://github.com/RustScan/RustScan>
+- **Upstream**: <https://github.com/bee-san/RustScan>
 - **License**: GPL-3.0
 
 ## Release
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,584 · **Forks**: 1,398 · **Open issues**: 294 · **Contributors**: 97
+- **Stars**: 20,595 · **Forks**: 1,398 · **Open issues**: 294 · **Contributors**: 97
 
 ## Totals (cumulative)
 
@@ -57,26 +47,26 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 12 | 6 | 4 | 1 | 26 |
+| last60d | 2026-08-23 | 0 | 19 | 6 | 5 | 1 | 34 |
+| 90d | 2026-07-24 | 0 | 20 | 6 | 5 | 1 | 34 |
+| last180d | 2026-04-25 | 0 | 35 | 6 | 5 | 1 | 45 |
+| 360d | 2025-10-27 | 0 | 65 | 6 | 9 | 1 | 76 |
+| last720d | 2024-11-01 | 1 | 161 | 6 | 32 | 8 | 309 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [aarch64-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip) | 2.0 MiB | `native/linux/arm64` |
-| [aarch64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip) | 1.8 MiB | `native/darwin/arm64` |
-| [rustscan.deb.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/rustscan.deb.zip) | 3.8 MiB | `other` |
-| [x86-linux-rustscan.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip) | 1.9 MiB | `other` |
-| [x86-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip) | 1.7 MiB | `native/win/x64` |
-| [x86_64-linux-rustscan.tar.gz.1.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.1.zip) | 2.1 MiB | `native/linux/x64` |
-| [x86_64-linux-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.zip) | 2.1 MiB | `native/linux/x64` |
-| [x86_64-macos-rustscan.tar.gz.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip) | 1.9 MiB | `native/darwin/x64` |
-| [x86_64-windows-rustscan.exe.zip](https://github.com/RustScan/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip) | 2.0 MiB | `native/win/x64` |
+| [aarch64-linux-rustscan.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip) | 2.0 MiB | `native/linux/arm64` |
+| [aarch64-macos-rustscan.tar.gz.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip) | 1.8 MiB | `native/darwin/arm64` |
+| [rustscan.deb.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/rustscan.deb.zip) | 3.8 MiB | `other` |
+| [x86-linux-rustscan.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip) | 1.9 MiB | `other` |
+| [x86-windows-rustscan.exe.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip) | 1.7 MiB | `native/win/x64` |
+| [x86_64-linux-rustscan.tar.gz.1.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.1.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-linux-rustscan.tar.gz.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.zip) | 2.1 MiB | `native/linux/x64` |
+| [x86_64-macos-rustscan.tar.gz.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip) | 1.9 MiB | `native/darwin/x64` |
+| [x86_64-windows-rustscan.exe.zip](https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip) | 2.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -87,4 +77,4 @@ Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:34:48Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:35:01Z._
