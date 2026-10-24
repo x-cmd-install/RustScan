@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2054366,
       "digest": null,
-      "download_count": 9550,
+      "download_count": 9581,
       "created_at": "2025-02-23T15:08:31Z",
       "updated_at": "2025-02-23T15:08:31Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-linux-rustscan.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1835936,
       "digest": null,
-      "download_count": 2547,
+      "download_count": 2561,
       "created_at": "2025-02-23T15:08:33Z",
       "updated_at": "2025-02-23T15:08:34Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/aarch64-macos-rustscan.tar.gz.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3965411,
       "digest": null,
-      "download_count": 308019,
+      "download_count": 308178,
       "created_at": "2025-02-23T15:11:20Z",
       "updated_at": "2025-02-23T15:11:20Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/rustscan.deb.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2030323,
       "digest": null,
-      "download_count": 9866,
+      "download_count": 9884,
       "created_at": "2025-02-23T15:08:31Z",
       "updated_at": "2025-02-23T15:08:32Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-linux-rustscan.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1785986,
       "digest": null,
-      "download_count": 10218,
+      "download_count": 10239,
       "created_at": "2025-02-23T15:08:58Z",
       "updated_at": "2025-02-23T15:08:59Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86-windows-rustscan.exe.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2210009,
       "digest": null,
-      "download_count": 4245,
+      "download_count": 4264,
       "created_at": "2025-02-23T15:08:42Z",
       "updated_at": "2025-02-23T15:08:43Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.1.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2210009,
       "digest": null,
-      "download_count": 34281,
+      "download_count": 34359,
       "created_at": "2025-02-23T15:08:32Z",
       "updated_at": "2025-02-23T15:08:33Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-linux-rustscan.tar.gz.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2007300,
       "digest": null,
-      "download_count": 1768,
+      "download_count": 1772,
       "created_at": "2025-02-23T15:08:30Z",
       "updated_at": "2025-02-23T15:08:31Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-macos-rustscan.tar.gz.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2058866,
       "digest": null,
-      "download_count": 24508,
+      "download_count": 24569,
       "created_at": "2025-02-23T15:09:34Z",
       "updated_at": "2025-02-23T15:09:34Z",
       "browser_download_url": "https://github.com/bee-san/RustScan/releases/download/2.4.1/x86_64-windows-rustscan.exe.zip"
