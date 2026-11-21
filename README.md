@@ -37,22 +37,22 @@ Total: **9,954** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 20,770 · **Forks**: 1,412 · **Open issues**: 294 · **Contributors**: 100
+- **Stars**: 20,777 · **Forks**: 1,412 · **Open issues**: 294 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 441 · **Open PRs**: 9 · **Closed issues**: 283 · **Open issues**: 11 · **Commits**: 1073
+- **Releases**: 22 · **Merged PRs**: 441 · **Open PRs**: 10 · **Closed issues**: 283 · **Open issues**: 11 · **Commits**: 1073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 4 | 9 | 0 | 0 | 10 |
-| last60d | 2026-09-21 | 0 | 22 | 9 | 4 | 1 | 36 |
-| 90d | 2026-08-22 | 0 | 29 | 9 | 5 | 1 | 44 |
-| last180d | 2026-05-24 | 0 | 38 | 9 | 5 | 1 | 51 |
-| 360d | 2025-11-25 | 0 | 74 | 9 | 7 | 1 | 85 |
-| last720d | 2024-11-30 | 1 | 158 | 9 | 25 | 6 | 273 |
+| 30d | 2026-10-22 | 0 | 4 | 10 | 0 | 0 | 10 |
+| last60d | 2026-09-22 | 0 | 22 | 10 | 4 | 1 | 36 |
+| 90d | 2026-08-23 | 0 | 29 | 10 | 5 | 1 | 44 |
+| last180d | 2026-05-25 | 0 | 38 | 10 | 5 | 1 | 51 |
+| 360d | 2025-11-26 | 0 | 74 | 10 | 7 | 1 | 85 |
+| last720d | 2024-12-01 | 1 | 158 | 10 | 25 | 6 | 273 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for RustScan lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:23:21Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:01:32Z._
